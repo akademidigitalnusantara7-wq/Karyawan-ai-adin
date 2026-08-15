@@ -8,7 +8,7 @@ const ADIN_LOGO = "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKAAAABpCAYAAAC
    fungsinya hanya sebagai "pintu" supaya link tidak dipakai bebas
    oleh yang belum bayar — sama seperti PDF yang dikirim manual
    lewat WhatsApp setelah pembayaran dikonfirmasi. */
-const ACCESS_CODE = "ADIN2026";
+const ACCESS_CODE = "ADINVISION30";
 
 /* ============================================================
    DATA — 240 Karyawan AI, 4 Departemen, 12 Sub-bagian
